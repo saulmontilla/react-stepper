@@ -1,0 +1,11 @@
+.stepsContainer {
+    display: block;
+    overflow: hidden;
+}
+.stepsContainer.overflow {
+    overflow: visible;
+}
+.step {
+    display: block;
+    transition: transform .3s linear;
+}

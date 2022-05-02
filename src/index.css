@@ -11,3 +11,27 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+* {
+  box-sizing: border-box;
+}
+
+.stepsContainer {
+  background-color: #fff;
+  color: #000;
+  width: 100%;
+  padding: 1rem;
+}
+
+.form-control {
+  width: 100%;
+  padding: .25rem;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.text-center {
+  text-align: center;
+}
